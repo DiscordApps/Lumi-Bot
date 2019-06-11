@@ -1,2 +1,1 @@
-# Lumi-Bot
-A support bot
+Lumi Bot is a Stupport Bot For Discord
