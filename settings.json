@@ -1,0 +1,65 @@
+{
+
+"Lumi Bot": "v3.4 ",
+
+"token": "",
+"prefix": "!",
+"botname": "Lumi Bot",
+"colour": "#42f477",
+"footer": "Made by Blue#6268",
+
+"BotStatus": "Made by Blue#6268 | !Help",
+
+"staff": "Staff",
+"support": "Support Team",
+"everyone": "@everyone",
+
+"category": "Tickets",
+"Ticket_Message": "Your support ticket has been opened successfully\nPlease allow us some time to reach out to you.",
+"Ticket_Logs": "ticket-logs",
+
+"Announcement_Title": "Lumi Bot Announcement",
+"Announcement_Channel": "announcements",
+
+"Welcome_Message": "Welcome to the server!",
+"Welcome_Channel": "welcome",
+
+"Leave_Message": "Thank you for visiting us!",
+"Leave_Channel": "welcome",
+
+"Poll_Channel": "polls",
+"Poll_Title": "📊 Polls",
+"Reaction_Poll_1": "✅",
+"Reaction_Poll_2": "❎",
+
+"Suggestion_Title": "Lumi Bot Suggestions",
+"Suggestion_Channel": "suggestions",
+"suggestyes": "✅",
+"suggestno": "❎",
+
+"LINK_1_NAME": "Discord",
+"LINK_2_NAME": "Stupport",
+"LINK_3_NAME": "Website",
+
+"LINK_1": "https://discord.gg/ubs8szb",
+"LINK_2": "https://discord.gg/AEUPQcd",
+"LINK_3": "https://Www.Godly-gamers.com/",
+
+"LINKS_TITLE": "Lumi Bot Links",
+
+"Ticket_Command": "ticket",
+"Suggest_Command": "suggest",
+"Say_Command": "say",
+"Remove_Command": "remove",
+"Add_Command": "add",
+"Ping_Command": "ping",
+"Close_Command": "close",
+"Forceclose_Command": "forceclose",
+"Rename_Command": "rename",
+"Help_Command": "help",
+"Link_Command": "links",
+"Lockchat_Command": "lock",
+"UnLockchat_Command": "unlock",
+"Poll_Command": "poll"
+
+}
