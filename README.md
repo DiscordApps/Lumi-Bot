@@ -1,7 +1,7 @@
 # Lumi Bot v3.4
 A Self Hosted discord application
 
-SupportBot is a free & open source discord bot for your server that has the capability to control & manage your servers support.
+Lumi Bot is a free & open source discord bot for your server that has the capability to control & manage your servers support.
 
 | Version | Supported          | Type               |
 | ------- | ------------------ |--------------------|
