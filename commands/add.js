@@ -1,4 +1,4 @@
-// SupportBot
+// Lumi Bot
 // Command: Add User
 
 const Discord = require("discord.js");
