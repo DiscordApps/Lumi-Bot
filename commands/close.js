@@ -1,4 +1,4 @@
-// SupportBot
+// Lumi Bot
 // Command: Close Ticket
 
 const Discord = require("discord.js");
