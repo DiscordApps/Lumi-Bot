@@ -23,9 +23,11 @@
 
 "Welcome_Message": "Welcome to the server!",
 "Welcome_Channel": "welcome",
-
+"Welcome_Channel": "welcome-and-goodbye",
+  
 "Leave_Message": "Thank you for visiting us!",
 "Leave_Channel": "welcome",
+"Leave_Channel": "welcome-and-goodbye",
 
 "Poll_Channel": "polls",
 "Poll_Title": "📊 Polls",
