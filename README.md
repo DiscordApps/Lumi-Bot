@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://discord.gg/AEUPQcd">
-    <img src="https://discordapp.com/api/guilds/516345301985132552/widget.png?style=shield" alt="Discord Server">
+    <img src="https://camo.githubusercontent.com/9ca232be4b74e49075bc3c3dec3c1f2e6ded53b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d4e6f64654a532d626c75652e737667">
   </a>
   <img src="https://img.shields.io/badge/Made%20with-NodeJS-blue.svg" alt="Made with NodeJS">
   <img src="https://github.com/DeveloperJosh/Lumi-Bot">
