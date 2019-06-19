@@ -10,7 +10,7 @@
   <img src="https://github.com/DeveloperJosh/Lumi-Bot">
 </p>
 
-SupportBot is a free & open source discord bot for your server that has the capability to control & manage your servers support.
+Lumi Bot is a free & open source discord bot for your server that has the capability to control & manage your servers support.
 
 | Version | Supported          | Type               |
 | ------- | ------------------ |--------------------|
