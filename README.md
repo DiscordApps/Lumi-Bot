@@ -14,12 +14,11 @@ Lumi Bot is a free & open source discord bot for your server that has the capabi
 
 | Version | Supported          | Status             |
 | ------- | ------------------ |--------------------|
-| 1.x     | ðŸš«                 | Discontinued       |
-| 2.x     | ðŸš«                 | Discontinued       |
-| 3.x     | âœ”ï¸                 | Supported          |
-| 4.x     | âŒ                 | Not Released yet   |
-| Premium | âš™ï¸                 | Under development  |
-
+| 1.x     | 🚫                 | Discontinued       |
+| 2.x     | 🚫                 | Discontinued       |
+| 3.x     | ✔️                 | Supported          |
+| 4.x     | ❌                 | Not Released yet   |
+| Premium | ⚙️                 | Under development  |
 
 
 # Getting Started
