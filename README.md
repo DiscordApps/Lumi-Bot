@@ -12,13 +12,15 @@
 
 Lumi Bot is a free & open source discord bot for your server that has the capability to control & manage your servers support.
 
-| Version | Supported          | Type               |
+| Version | Supported          | Status             |
 | ------- | ------------------ |--------------------|
-| 1.0.x   | ❌                 | None               |
-| 2.0.x   | ⚠                  | Community          |
-| 3.0.x   | ✅                 | Priority           |
-| 4.0.x   | ❌                 | N/A                |
-| Premium | ❌                 | N/A                |
+| 1.x     | ðŸš«                 | Discontinued       |
+| 2.x     | ðŸš«                 | Discontinued       |
+| 3.x     | âœ”ï¸                 | Supported          |
+| 4.x     | âŒ                 | Not Released yet   |
+| Premium | âš™ï¸                 | Under development  |
+
+
 
 # Getting Started
 Firstly you will need to download the resource, Once you have downloaded the resource open a new tab in your browser and go to https://discordapp.com/developers/applications/. Create a new application and then open your app and select bot and then create your bot. Copy the bot token and paste it where it says ``"token": "BOT TOKEN HERE",`` in the ``settings.json`` file.
